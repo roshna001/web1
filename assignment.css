@@ -1,0 +1,220 @@
+.head{
+    background-color: #EAF6F6;
+    height: 750px;
+    margin: 0px;
+    
+}
+.cloud1{
+    position:absolute;
+    top: 50px ;
+    bottom: 50px;
+    left: 1010px;
+}
+h1{ 
+    font-family:Sacramento;
+    color: #66BFBF;
+    text-align: center;
+    font-size:80px;
+   
+}
+.pro{
+    font-family:'Encode Sans Semi Expanded';
+    color: #66BFBF;
+    text-align: center;
+    font-size: 36px;
+}
+.cloud2{
+    position:absolute;
+    top: 0px;
+    bottom: 50px;
+    right: 1000px;
+}
+.mountain{
+    position: absolute;
+    left: 500px;
+    margin-top: 40px;
+}
+.mypic{
+    border-radius:50%;
+    width: 230px;
+    position: absolute;
+    left: 650px;
+    margin-top: 65px;
+}
+.hello{
+    text-align: center;
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    margin-top: 320px;
+    position: relative;
+    left: 5px;
+}
+
+.heart:before {
+    content: '\2665';
+    color: red;
+  }
+.intro{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+}
+dotted-line {
+    white-space: nowrap;
+    position: relative;
+    overflow: hidden;
+  }
+  .dotted-line:after {
+    content: ".....";
+    letter-spacing: 8px;
+    font-size: 55px;
+    color: #EAF6F6;
+    display: inline-block;
+    vertical-align: 3px;
+    padding-left: 700px;
+    padding-top: 30px;
+  } 
+
+.skill{
+    text-align: center;
+    color:#66BFBF ;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    padding-left: 10px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+.codeing{
+    float:left;
+    width: 200px;
+    margin-left: 400px;
+    margin-right: 20px; 
+    margin-bottom: 200px;
+    clear: both; 
+}
+.design{
+    color:#66BFBF ;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
+p{
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+    font-size: 20px;
+}
+.chilli{
+    float: right;
+    margin-right: 250px;
+    margin-left: 20px;
+    width: 200px;
+    margin-top: 100px; 
+    
+} 
+.hot{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    margin-top: 120px;
+    
+    
+}
+.par3{
+    text-align: left;
+    padding-right: 20px;
+    
+}
+
+dotted-line {
+    white-space: nowrap;
+    position: relative;
+    overflow: hidden;
+  }
+  .dotted-line:after {
+    content: ".....";
+    letter-spacing: 8px;
+    font-size: 55px;
+    color: #EAF6F6;
+    display: inline-block;
+    vertical-align: 3px;
+    padding-left: 700px;
+    padding-top: 30px;
+  } 
+  .git{
+      color: #66BFBF;
+      font-family: 'Montserrat', sans-serif;
+      text-align: center;
+      margin-top: 40px;
+      font-size: 40px;
+  }
+  .if{
+      color: #11999E;
+      text-align: center;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 20px;
+  }
+  .love{
+      text-align: center;    
+  }
+  .can{
+      text-align: center;
+      margin-bottom: 10px;
+  }
+  .button{
+      background-color:#11999E ;
+      font-family:'Montserrat', sans-serif;
+      text-decoration: none;
+      font-size: 20px;
+      color: white;
+      text-align: center;
+      padding: 10px 27px;
+      border-radius: 12px;
+      margin-left: 650px;
+      margin-top: 40px;
+      margin-bottom: 40px;
+      border-color: white;
+      cursor: pointer;
+      opacity:5;
+  }
+  .button:hover {
+      background-color:rgb(87, 90, 92);
+
+}
+  .button:active {
+     background-color:#11999E ;
+     transform: translateY(4px);
+}
+  .footer{
+      background-color: #66BFBF;
+      height: 150px;
+  }
+  ul {
+    list-style-type: none;
+    margin-left: 580px;
+    padding: 40px 20px;
+  }
+  
+  li {
+    display: inline;
+    padding: 20px 20px;
+    font-family:'Montserrat', sans-serif;
+    font-size: 18px;   
+  }
+  a{
+      color: #11999E;
+      text-decoration: none;    
+  }
+  a:hover{
+      color: whitesmoke;
+  }
+  .last{
+      color: #EAF6F6;
+      text-align: center;
+      font-family:'Montserrat', sans-serif;
+      font-size: 15px;
+      padding-bottom: 30px;
+  }
+  
+
+
+
